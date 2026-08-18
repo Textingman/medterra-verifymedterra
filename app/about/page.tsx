@@ -1,5 +1,5 @@
 import Link from 'next/link';
-import { Gamepad2, Trophy, Zap } from 'lucide-react';
+import { Shield, CheckCircle, Zap } from 'lucide-react';
 import Navbar from '../components/Navbar';
 import Footer from '../components/Footer';
 
@@ -13,14 +13,14 @@ export default function AboutPage() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold mb-6" style={{ backgroundColor: '#DCFCE7', color: '#16A34A' }}>
-              <Gamepad2 className="w-4 h-4" />
-              Play Games — Earn Aura — Level Up
+              <Shield className="w-4 h-4" />
+              Trusted Verification — Fast &amp; Secure
             </div>
             <h1 className="text-5xl font-extrabold mb-6" style={{ color: '#1F2937' }}>
-              Built for Gamers,<br />Powered by Quests
+              Built for Trust,<br />Powered by Security
             </h1>
             <p className="text-xl max-w-3xl mx-auto" style={{ color: '#6B7280' }}>
-              Verify Medterra is an online gaming platform where every game, quest, and challenge you complete earns you real aura points and rewards. We built this for players who want more than just fun — they want to level up.
+              Verify Medterra is a secure identity verification platform designed to make the verification process simple, fast, and reliable. We built this for people who need confidence and clarity — not confusion.
             </p>
           </div>
         </div>
@@ -32,33 +32,33 @@ export default function AboutPage() {
           <div>
             <h2 className="text-4xl font-bold mb-6" style={{ color: '#1F2937' }}>Why We Built This</h2>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
-              Gaming should reward you. We built Verify Medterra because players deserve a platform where their time, skill, and dedication actually earn them something — aura points, prestige, and exclusive rewards.
+              Verification should be simple. We built Verify Medterra because people deserve a platform where confirming their identity is fast, secure, and stress-free — no complicated steps, no long waits.
             </p>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
-              Every quest you complete, every challenge you conquer, and every game you play adds to your aura. The more you play, the more you glow.
+              Every step of our process is designed with your privacy and security in mind. We use industry-standard practices to keep your information safe and your experience smooth.
             </p>
             <p className="text-lg" style={{ color: '#6B7280' }}>
-              Join thousands of players already earning aura on Verify Medterra. Your next quest is waiting.
+              Join thousands of people who trust Verify Medterra for fast, reliable verification. Get started today.
             </p>
           </div>
           <div className="rounded-2xl p-8 border" style={{ backgroundColor: '#FFFFFF', borderColor: '#E5E7EB' }}>
             <div className="space-y-6">
               <div className="flex items-start">
                 <div className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#DCFCE7' }}>
-                  <Gamepad2 className="w-5 h-5" style={{ color: '#16A34A' }} />
+                  <Shield className="w-5 h-5" style={{ color: '#16A34A' }} />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Games & Quests</h3>
-                  <p style={{ color: '#6B7280' }}>Play a wide variety of online games and complete quests to earn aura points with every victory.</p>
+                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Secure & Private</h3>
+                  <p style={{ color: '#6B7280' }}>Your information is protected with industry-standard security. We never share your data without your consent.</p>
                 </div>
               </div>
               <div className="flex items-start">
                 <div className="flex-shrink-0 w-10 h-10 rounded-full flex items-center justify-center" style={{ backgroundColor: '#DCFCE7' }}>
-                  <Trophy className="w-5 h-5" style={{ color: '#16A34A' }} />
+                  <CheckCircle className="w-5 h-5" style={{ color: '#16A34A' }} />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Earn Real Rewards</h3>
-                  <p style={{ color: '#6B7280' }}>Your aura points unlock real rewards and prestige. The more challenges you complete, the more you earn.</p>
+                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Trusted Verification</h3>
+                  <p style={{ color: '#6B7280' }}>Our verification process is straightforward and reliable — get confirmed quickly with confidence.</p>
                 </div>
               </div>
               <div className="flex items-start">
@@ -66,8 +66,8 @@ export default function AboutPage() {
                   <Zap className="w-5 h-5" style={{ color: '#16A34A' }} />
                 </div>
                 <div className="ml-4">
-                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Level Up Fast</h3>
-                  <p style={{ color: '#6B7280' }}>Complete daily challenges and special quests to level up your aura faster than ever before.</p>
+                  <h3 className="text-lg font-semibold mb-1" style={{ color: '#1F2937' }}>Fast & Easy</h3>
+                  <p style={{ color: '#6B7280' }}>Complete your verification in minutes. No complicated setup, no long waits — just fast, straightforward access.</p>
                 </div>
               </div>
             </div>
