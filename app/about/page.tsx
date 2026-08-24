@@ -20,7 +20,7 @@ export default function AboutPage() {
               Built for Trust,<br />Powered by Security
             </h1>
             <p className="text-xl max-w-3xl mx-auto" style={{ color: '#6B7280' }}>
-              Verify Medterra is a secure identity verification platform designed to make the verification process simple, fast, and reliable. We built this for people who need confidence and clarity — not confusion.
+              Vena is a secure identity verification platform designed to make the verification process simple, fast, and reliable. We built this for people who need confidence and clarity — not confusion.
             </p>
           </div>
         </div>
@@ -32,13 +32,13 @@ export default function AboutPage() {
           <div>
             <h2 className="text-4xl font-bold mb-6" style={{ color: '#1F2937' }}>Why We Built This</h2>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
-              Verification should be simple. We built Verify Medterra because people deserve a platform where confirming their identity is fast, secure, and stress-free — no complicated steps, no long waits.
+              Verification should be simple. We built Vena because people deserve a platform where confirming their identity is fast, secure, and stress-free — no complicated steps, no long waits.
             </p>
             <p className="text-lg mb-4" style={{ color: '#6B7280' }}>
               Every step of our process is designed with your privacy and security in mind. We use industry-standard practices to keep your information safe and your experience smooth.
             </p>
             <p className="text-lg" style={{ color: '#6B7280' }}>
-              Join thousands of people who trust Verify Medterra for fast, reliable verification. Get started today.
+              Join thousands of people who trust Vena for fast, reliable verification. Get started today.
             </p>
           </div>
           <div className="rounded-2xl p-8 border" style={{ backgroundColor: '#FFFFFF', borderColor: '#E5E7EB' }}>
