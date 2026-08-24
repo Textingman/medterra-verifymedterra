@@ -15,7 +15,7 @@ export default function Navbar() {
         <div className="flex justify-between items-center h-32">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0">
-              <span className="text-2xl font-bold" style={{ color: '#16A34A' }}>Verify Medterra</span>
+              <span className="text-2xl font-bold" style={{ color: '#16A34A' }}>Vena</span>
             </Link>
           </div>
           <div className="hidden md:block">
