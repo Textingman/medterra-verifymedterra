@@ -14,14 +14,14 @@ export default function HomePage() {
           <div className="text-center">
             <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full text-sm font-semibold mb-6" style={{ backgroundColor: '#DCFCE7', color: '#16A34A' }}>
               <Star className="w-4 h-4" />
-              Verify Medterra
+              Vena
             </div>
             <h1 className="text-5xl font-extrabold sm:text-6xl md:text-7xl" style={{ color: '#1F2937' }}>
               Verify with Confidence
               <span className="block" style={{ color: '#16A34A' }}>Secure & Instant Verification</span>
             </h1>
             <p className="mt-6 max-w-2xl mx-auto text-xl" style={{ color: '#6B7280' }}>
-              Verify Medterra makes identity and account verification fast, simple, and secure — get verified in seconds.
+              Vena makes identity and account verification fast, simple, and secure — get verified in seconds.
             </p>
             <div className="mt-10 flex justify-center gap-4 flex-wrap">
               <Link href="/signup" className="px-8 py-4 text-white text-lg font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#16A34A' }}>
@@ -39,7 +39,7 @@ export default function HomePage() {
       <section className="py-20" style={{ backgroundColor: '#FFFFFF' }}>
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <div className="text-center mb-16">
-            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Why Choose Verify Medterra</h2>
+            <h2 className="text-4xl font-bold" style={{ color: '#1F2937' }}>Why Choose Vena</h2>
             <p className="mt-4 text-xl" style={{ color: '#6B7280' }}>Fast, secure verification you can trust.</p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -78,7 +78,7 @@ export default function HomePage() {
       <section className="py-20" style={{ backgroundColor: '#F0FDF4' }}>
         <div className="max-w-4xl mx-auto px-4 sm:px-6 lg:px-8 text-center">
           <h2 className="text-4xl font-bold mb-6" style={{ color: '#1F2937' }}>Ready to Get Started?</h2>
-          <p className="text-xl mb-10" style={{ color: '#6B7280' }}>Join thousands of people who trust Verify Medterra.</p>
+          <p className="text-xl mb-10" style={{ color: '#6B7280' }}>Join thousands of people who trust Vena.</p>
           <Link href="/signup" className="px-10 py-5 text-white text-xl font-semibold rounded-lg shadow-lg transition-opacity hover:opacity-90" style={{ backgroundColor: '#16A34A' }}>
             Get Verified
           </Link>
