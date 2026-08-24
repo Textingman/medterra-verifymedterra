@@ -46,7 +46,7 @@ export default function Footer() {
           <div>
             <h4 className="font-semibold mb-4">Contact</h4>
             <p style={{ color: '#BBF7D0' }}>support@verifyvena.com</p>
-            <p className="mt-2" style={{ color: '#BBF7D0' }}>8 The Green, Ste A, Dover, DE 19901</p>
+            <p className="mt-2" style={{ color: '#BBF7D0' }}>18500 Von Karman Ave Suite 100, Irvine, CA 92612</p>
             <p className="mt-2" style={{ color: '#BBF7D0' }}></p>
           </div>
         </div>
