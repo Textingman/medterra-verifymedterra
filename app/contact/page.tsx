@@ -84,7 +84,7 @@ export default function ContactPage() {
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>Mailing Address</h3>
-                  <p style={{ color: '#6B7280' }}>Vena<br />8 The Green, Ste A<br />Dover, DE 19901</p>
+                  <p style={{ color: '#6B7280' }}>Vena<br />18500 Von Karman Ave Suite 100<br />Irvine, CA 92612</p>
                 </div>
                 <div>
                   <h3 className="text-sm font-semibold uppercase tracking-wide mb-1" style={{ color: '#9CA3AF' }}>SMS Support</h3>
