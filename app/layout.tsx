@@ -13,8 +13,8 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Verify Medterra - Verify Medterra — Secure Identity Verification",
-  description: "Verify Medterra makes identity verification easy and secure. Get verified quickly with confidence.",
+  title: "Vena - Vena — Secure Identity Verification",
+  description: "Vena makes identity verification easy and secure. Get verified quickly with confidence.",
 };
 
 export default function RootLayout({
