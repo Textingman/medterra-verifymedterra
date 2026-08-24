@@ -48,7 +48,7 @@ export default function PrivacyPage() {
           <p className="mb-6" style={{ color: '#6B7280' }}>
             If you have questions about this Privacy Policy, please contact us at:<br />
             Vena<br />
-            8 The Green, Ste A, Dover, DE 19901<br />
+            18500 Von Karman Ave Suite 100, Irvine, CA 92612<br />
             Email: <a href="mailto:support@verifyvena.com" style={{ color: '#16A34A' }}>support@verifyvena.com</a>
           </p>
         </div>
