@@ -16,23 +16,23 @@ export default function TermsPage() {
         <div className="prose prose-lg max-w-none">
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>1. Acceptance of Terms</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            By accessing or using Verify Medterra's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
+            By accessing or using Vena's service ("Service"), you agree to be bound by these Terms of Service ("Terms"). If you do not agree to these Terms, you may not access or use the Service.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>2. Description of Service</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Verify Medterra provides an AI-powered information and education service accessible through www.verifymedterra.com. The Service is intended for informational purposes only and does not constitute professional advice.
+            Vena provides an AI-powered information and education service accessible through www.verifyvena.com. The Service is intended for informational purposes only and does not constitute professional advice.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>3. SMS Communications</h2>
           <p className="mb-4" style={{ color: '#6B7280' }}>
-            By opting in to SMS communications, you agree to receive text messages from Verify Medterra. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@verifymedterra.com.
+            By opting in to SMS communications, you agree to receive text messages from Vena. Standard message and data rates may apply. You may opt out at any time by replying STOP. For help, reply HELP or contact support@verifyvena.com.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>4. Limitation of Liability</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            Verify Medterra shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
+            Vena shall not be liable for any indirect, incidental, special, consequential, or punitive damages resulting from your use of or inability to use the Service.
           </p>
           <h2 className="text-2xl font-bold mt-8 mb-4" style={{ color: '#1F2937' }}>5. Contact</h2>
           <p className="mb-6" style={{ color: '#6B7280' }}>
-            For questions about these Terms, contact us at support@verifymedterra.com or 8 The Green, Ste A, Dover, DE 19901.
+            For questions about these Terms, contact us at support@verifyvena.com or 8 The Green, Ste A, Dover, DE 19901.
           </p>
         </div>
       </section>
